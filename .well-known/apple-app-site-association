@@ -1,10 +1,15 @@
 {
-  "applinks": {
-      "details": [
+   "applinks": {
+     "apps": [],
+     "details": [
       {
         "appID": "44KM7QQJ8A.com.perceptivesol.woundzoom.WzCore-iOS",
         "paths": ["*"]
-      }
-    ]
-  }
+      },
+       {
+         "appID": "44KM7QQJ8A.com.perceptivesol.woundzoom.matt.SimpleTest",
+         "paths": [ "*" ]
+       }
+     ]
+   }
 }
